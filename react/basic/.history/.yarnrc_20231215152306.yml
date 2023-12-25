@@ -1,0 +1,4 @@
+packageExtentions:
+  react-scripts@*:
+    peerDependencies:
+      eslint-config-react-app: '*'
